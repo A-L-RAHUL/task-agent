@@ -1,0 +1,5 @@
+{
+  "name": "AI Restaurant Order System",
+  "description": "A multi-interface restaurant management system with an AI order-taking bot powered by LangGraph and Gemini.",
+  "requestFramePermissions": []
+}
